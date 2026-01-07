@@ -10,4 +10,4 @@ function findMax(arr) {
   return max;
 }
 
-console.log(findMax([5, 1, 9, 3])); // 9
+console.log(findMax([5, 1, 9, 3])); 
